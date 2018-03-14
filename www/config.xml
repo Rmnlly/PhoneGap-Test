@@ -3,12 +3,12 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.danzen.tilty"
-        version   = "3.0.1">
+        version   = "0.0.1">
 
     <name>Tilty</name>
 
     <description>
-        Mobile game to keep your device level while jostling others!
+        A mobile test using zimjs
     </description>
 
     <author href="http://danzen.com" email="support@danzen.com">

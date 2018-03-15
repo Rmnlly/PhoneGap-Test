@@ -5,14 +5,14 @@
         id        = "com.danzen.tilty"
         version   = "0.0.1">
 
-    <name>Tilty</name>
+    <name>First Mobile App</name>
 
     <description>
         A mobile test using zimjs
     </description>
 
-    <author href="http://danzen.com" email="support@danzen.com">
-       Dan Zen
+    <author href="http://ramanlally.com" email="">
+       Raman
     </author>
 
     <!--
